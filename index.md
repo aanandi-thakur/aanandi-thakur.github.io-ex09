@@ -10,7 +10,7 @@ layout: default
 
 ## The idea I'm proposing
 
-**The course should offer an optional one-week pre-semester bootcamp** — for students who enter COMP110 with little or no prior programming experience.
+**The course should offer an optional one-week pre-semester bootcamp** for students who enter COMP110 with little or no prior programming experience.
 
 The reason is because students who report "None to less than one month" of prior programming experience are by far the single largest group in the class, so any improvement aimed at them touches the majority of students.
 
@@ -24,7 +24,7 @@ The analysis question: **do students entering COMP110 with no (or very little) p
 
 ### 1. Where students start: distribution of prior programming experience
 
-The "None to less than one month" bucket dominates the class — 478 of 764 respondents (≈63%). The next largest bucket, "2-6 months," accounts for 184 responses. So the "typical" COMP110 student is essentially a beginner, and an intervention aimed at beginners is not a niche fix.
+The "None to less than one month" bucket dominates the class with 478 of 764 respondents (≈63%). The next largest bucket, "2-6 months," accounts for 184 responses. So the "typical" COMP110 student is essentially a beginner, and an intervention aimed at beginners is not a niche fix.
 
 <img src="/aanandi-thakur.github.io-ex09/static/imgs/01_prior_exp_distribution.png" alt="Bar chart showing that the 'None to less than one month' bucket is the largest group of COMP110 respondents, with 478 students out of 764 total." width="800"/>
 
@@ -48,7 +48,7 @@ A scatter of `pace` vs. `understanding`, colored by `prior_exp`, lets us look at
 
 ## Final conclusions
 
-Across four independent views — distribution of experience, difficulty, understanding, and pace — students who enter with little or no prior programming experience consistently report the toughest version of the course. Because that group is also the majority of the class, my proposed intervention has a wide reach.
+Across four independent views (distribution of experience, difficulty, understanding, and pace) students who enter with little or no prior programming experience consistently report the toughest version of the course. Because that group is also the majority of the class, my proposed intervention has a wide reach.
 
 **Extensions worth exploring.** A follow-up is to pair this analysis with `oh_visits`, `ls_effective`, and `tutoring_effective` to see whether beginners who already engage with existing support close some of the gap on their own. This would tell us whether expanding existing resources is enough, or whether a new beginner-focused program is actually needed. 
 
